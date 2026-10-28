@@ -1,0 +1,661 @@
+{
+	"version": 1,
+	"voice": {
+		"model": "Qwen/Qwen3-TTS-12Hz-0.6B-CustomVoice",
+		"speaker": "serena",
+		"language": "Russian"
+	},
+	"base": "/learn-audio/",
+	"lessons": {
+		"00-start/01-how-to-learn": {
+			"sections": [
+				{
+					"key": "intro",
+					"hash": "a1008ba2a8a3742b",
+					"file": "ru/00-start/01-how-to-learn/intro-a1008ba2a8a3742b.opus",
+					"duration": 26.51,
+					"starts": [
+						0.0,
+						2.75,
+						8.27,
+						15.51
+					]
+				},
+				{
+					"key": "1",
+					"hash": "f93c75897c4e295f",
+					"file": "ru/00-start/01-how-to-learn/1-f93c75897c4e295f.opus",
+					"duration": 62.21,
+					"starts": [
+						0.0,
+						2.85,
+						8.65,
+						16.31,
+						22.94,
+						27.32,
+						32.96,
+						38.06,
+						44.49,
+						50.85,
+						55.12
+					]
+				},
+				{
+					"key": "2",
+					"hash": "2fbeec8ce3366ccc",
+					"file": "ru/00-start/01-how-to-learn/2-2fbeec8ce3366ccc.opus",
+					"duration": 59.91,
+					"starts": [
+						0.0,
+						2.83,
+						7.96,
+						11.97,
+						16.67,
+						24.18,
+						29.94,
+						35.9,
+						39.33,
+						46.62,
+						50.43
+					]
+				},
+				{
+					"key": "3",
+					"hash": "f3a822cede1c9bff",
+					"file": "ru/00-start/01-how-to-learn/3-f3a822cede1c9bff.opus",
+					"duration": 75.11,
+					"starts": [
+						0.0,
+						3.34,
+						14.21,
+						22.38,
+						38.18,
+						42.42,
+						58.76,
+						62.5
+					]
+				},
+				{
+					"key": "4",
+					"hash": "2927cd4e4f304ce8",
+					"file": "ru/00-start/01-how-to-learn/4-2927cd4e4f304ce8.opus",
+					"duration": 93.51,
+					"starts": [
+						0.0,
+						2.68,
+						7.55,
+						12.28,
+						18.98,
+						26.28,
+						29.25,
+						42.2,
+						46.58,
+						52.16,
+						57.29,
+						61.88,
+						65.81,
+						67.68,
+						71.34,
+						80.63,
+						86.33
+					]
+				},
+				{
+					"key": "5",
+					"hash": "715fa509a19b03e5",
+					"file": "ru/00-start/01-how-to-learn/5-715fa509a19b03e5.opus",
+					"duration": 40.31,
+					"starts": [
+						0.0,
+						3.34,
+						19.45,
+						25.73,
+						35.94
+					]
+				},
+				{
+					"key": "6",
+					"hash": "1c5f22fcb5341027",
+					"file": "ru/00-start/01-how-to-learn/6-1c5f22fcb5341027.opus",
+					"duration": 40.61,
+					"starts": [
+						0.0,
+						2.71,
+						8.84,
+						12.71,
+						16.84,
+						24.7,
+						32.14
+					]
+				},
+				{
+					"key": "7",
+					"hash": "ad65720099358076",
+					"file": "ru/00-start/01-how-to-learn/7-ad65720099358076.opus",
+					"duration": 45.71,
+					"starts": [
+						0.0,
+						2.34,
+						6.66,
+						11.23,
+						20.83,
+						26.64,
+						31.52,
+						35.48
+					]
+				},
+				{
+					"key": "8",
+					"hash": "cd2bdca363838dbe",
+					"file": "ru/00-start/01-how-to-learn/8-cd2bdca363838dbe.opus",
+					"duration": 35.01,
+					"starts": [
+						0.0,
+						1.88,
+						4.64,
+						13.95,
+						19.95,
+						26.57,
+						31.91
+					]
+				}
+			]
+		},
+		"00-start/02-time-machine": {
+			"sections": [
+				{
+					"key": "intro",
+					"hash": "2e9fc19fd430763f",
+					"file": "ru/00-start/02-time-machine/intro-2e9fc19fd430763f.opus",
+					"duration": 31.61,
+					"starts": [
+						0.0,
+						4.42,
+						10.6,
+						17.61
+					]
+				},
+				{
+					"key": "1",
+					"hash": "d13d9ce0a374a14c",
+					"file": "ru/00-start/02-time-machine/1-d13d9ce0a374a14c.opus",
+					"duration": 65.71,
+					"starts": [
+						0.0,
+						1.95,
+						11.83,
+						16.42,
+						20.27,
+						28.06,
+						36.3,
+						42.5,
+						55.2,
+						58.51
+					]
+				},
+				{
+					"key": "2",
+					"hash": "76b6b934ed77f045",
+					"file": "ru/00-start/02-time-machine/2-76b6b934ed77f045.opus",
+					"duration": 77.11,
+					"starts": [
+						0.0,
+						2.42,
+						8.77,
+						15.29,
+						19.69,
+						25.76,
+						29.42,
+						40.36,
+						43.49,
+						47.86,
+						54.68,
+						60.05,
+						65.97,
+						72.87
+					]
+				},
+				{
+					"key": "3",
+					"hash": "767c2078304c5fdd",
+					"file": "ru/00-start/02-time-machine/3-767c2078304c5fdd.opus",
+					"duration": 119.61,
+					"starts": [
+						0.0,
+						1.86,
+						6.51,
+						16.49,
+						26.89,
+						34.99,
+						42.98,
+						50.73,
+						60.76,
+						69.46,
+						76.63,
+						84.94,
+						88.6,
+						95.33,
+						107.24,
+						111.83
+					]
+				},
+				{
+					"key": "4",
+					"hash": "c5d043d02f820314",
+					"file": "ru/00-start/02-time-machine/4-c5d043d02f820314.opus",
+					"duration": 79.51,
+					"starts": [
+						0.0,
+						3.98,
+						16.3,
+						19.22,
+						20.99,
+						30.48,
+						43.1,
+						48.12,
+						58.81,
+						67.55,
+						72.28
+					]
+				},
+				{
+					"key": "5",
+					"hash": "bc6dab5a05c152ca",
+					"file": "ru/00-start/02-time-machine/5-bc6dab5a05c152ca.opus",
+					"duration": 41.61,
+					"starts": [
+						0.0,
+						2.49,
+						7.48,
+						14.79,
+						26.09,
+						28.97,
+						36.37
+					]
+				},
+				{
+					"key": "6",
+					"hash": "63d946b85e23504d",
+					"file": "ru/00-start/02-time-machine/6-63d946b85e23504d.opus",
+					"duration": 46.11,
+					"starts": [
+						0.0,
+						2.88,
+						7.56,
+						11.64,
+						19.15,
+						27.01,
+						31.65,
+						33.62
+					]
+				}
+			]
+		},
+		"00-start/03-workbench": {
+			"sections": [
+				{
+					"key": "intro",
+					"hash": "b53d317848567b94",
+					"file": "ru/00-start/03-workbench/intro-b53d317848567b94.opus",
+					"duration": 32.41,
+					"starts": [
+						0.0,
+						4.5,
+						14.96,
+						20.81,
+						28.14
+					]
+				},
+				{
+					"key": "1",
+					"hash": "8c64e8390e2b66ca",
+					"file": "ru/00-start/03-workbench/1-8c64e8390e2b66ca.opus",
+					"duration": 82.71,
+					"starts": [
+						0.0,
+						1.46,
+						8.81,
+						14.16,
+						20.29,
+						25.51,
+						30.48,
+						42.99,
+						47.85,
+						51.64,
+						64.92,
+						71.04,
+						75.05
+					]
+				},
+				{
+					"key": "2",
+					"hash": "8bf43bd2dc0a2710",
+					"file": "ru/00-start/03-workbench/2-8bf43bd2dc0a2710.opus",
+					"duration": 44.51,
+					"starts": [
+						0.0,
+						1.63,
+						11.83,
+						23.4,
+						33.39,
+						36.67,
+						40.87
+					]
+				},
+				{
+					"key": "3",
+					"hash": "61c8a2d218963cfa",
+					"file": "ru/00-start/03-workbench/3-61c8a2d218963cfa.opus",
+					"duration": 31.01,
+					"starts": [
+						0.0,
+						3.68,
+						6.78,
+						14.28,
+						19.01,
+						26.2
+					]
+				},
+				{
+					"key": "4",
+					"hash": "e99ec0f567eeab99",
+					"file": "ru/00-start/03-workbench/4-e99ec0f567eeab99.opus",
+					"duration": 30.21,
+					"starts": [
+						0.0,
+						1.66,
+						7.1,
+						16.15
+					]
+				},
+				{
+					"key": "5",
+					"hash": "ecea18e33cbdd41c",
+					"file": "ru/00-start/03-workbench/5-ecea18e33cbdd41c.opus",
+					"duration": 109.91,
+					"starts": [
+						0.0,
+						2.5,
+						10.89,
+						25.62,
+						28.31,
+						36.05,
+						40.35,
+						45.62,
+						50.31,
+						52.92,
+						59.78,
+						65.76,
+						71.22,
+						76.52,
+						83.58,
+						86.84,
+						96.24,
+						101.5
+					]
+				},
+				{
+					"key": "6",
+					"hash": "08119e52cdc68083",
+					"file": "ru/00-start/03-workbench/6-08119e52cdc68083.opus",
+					"duration": 42.51,
+					"starts": [
+						0.0,
+						3.4,
+						6.88,
+						11.57,
+						15.17,
+						22.62,
+						28.19,
+						29.51,
+						35.49
+					]
+				}
+			]
+		},
+		"00-start/04-brief": {
+			"sections": [
+				{
+					"key": "intro",
+					"hash": "5fd3dc5ad21ef493",
+					"file": "ru/00-start/04-brief/intro-5fd3dc5ad21ef493.opus",
+					"duration": 31.01,
+					"starts": [
+						0.0,
+						3.39,
+						9.05,
+						16.83,
+						21.45
+					]
+				},
+				{
+					"key": "1",
+					"hash": "843fc677be3d9ffd",
+					"file": "ru/00-start/04-brief/1-843fc677be3d9ffd.opus",
+					"duration": 59.71,
+					"starts": [
+						0.0,
+						1.94,
+						6.25,
+						12.94,
+						16.04,
+						23.57,
+						31.34,
+						34.67,
+						45.04,
+						49.09,
+						55.74
+					]
+				},
+				{
+					"key": "2",
+					"hash": "152a8306465dd95c",
+					"file": "ru/00-start/04-brief/2-152a8306465dd95c.opus",
+					"duration": 127.41,
+					"starts": [
+						0.0,
+						1.8,
+						10.26,
+						15.93,
+						24.05,
+						29.82,
+						38.22,
+						46.89,
+						50.97,
+						60.76,
+						64.81,
+						76.14,
+						83.86,
+						95.94,
+						99.86,
+						105.78,
+						111.21,
+						116.01,
+						122.86
+					]
+				},
+				{
+					"key": "3",
+					"hash": "b580ca71bb31de94",
+					"file": "ru/00-start/04-brief/3-b580ca71bb31de94.opus",
+					"duration": 112.21,
+					"starts": [
+						0.0,
+						2.33,
+						6.39,
+						12.72,
+						26.27,
+						37.66,
+						43.66,
+						50.35,
+						59.64,
+						73.49,
+						76.76,
+						79.75,
+						84.77,
+						91.96,
+						101.96,
+						105.62
+					]
+				}
+			]
+		},
+		"00-start/05-local-first": {
+			"sections": [
+				{
+					"key": "intro",
+					"hash": "21767e5e434d8955",
+					"file": "ru/00-start/05-local-first/intro-21767e5e434d8955.opus",
+					"duration": 33.41,
+					"starts": [
+						0.0,
+						6.05,
+						14.75,
+						21.47
+					]
+				},
+				{
+					"key": "1",
+					"hash": "f1b606a733f95ddb",
+					"file": "ru/00-start/05-local-first/1-f1b606a733f95ddb.opus",
+					"duration": 60.11,
+					"starts": [
+						0.0,
+						3.54,
+						12.73,
+						16.75,
+						23.34,
+						31.25,
+						42.34,
+						50.36,
+						54.23
+					]
+				},
+				{
+					"key": "2",
+					"hash": "93c252446b93d6c2",
+					"file": "ru/00-start/05-local-first/2-93c252446b93d6c2.opus",
+					"duration": 48.91,
+					"starts": [
+						0.0,
+						4.09,
+						11.63,
+						15.29,
+						23.83,
+						35.99,
+						43.23
+					]
+				},
+				{
+					"key": "3",
+					"hash": "65a90e6b8afd3fcf",
+					"file": "ru/00-start/05-local-first/3-65a90e6b8afd3fcf.opus",
+					"duration": 55.71,
+					"starts": [
+						0.0,
+						1.89,
+						13.0,
+						19.31,
+						26.6,
+						35.27,
+						41.7,
+						44.48,
+						48.11
+					]
+				},
+				{
+					"key": "4",
+					"hash": "6aac7455c091d190",
+					"file": "ru/00-start/05-local-first/4-6aac7455c091d190.opus",
+					"duration": 78.71,
+					"starts": [
+						0.0,
+						2.48,
+						5.44,
+						13.09,
+						21.65,
+						23.67,
+						30.64,
+						34.2,
+						38.0,
+						43.23,
+						46.53,
+						51.07,
+						55.38,
+						58.04,
+						61.61,
+						67.45
+					]
+				},
+				{
+					"key": "5",
+					"hash": "c6858fc810a8e248",
+					"file": "ru/00-start/05-local-first/5-c6858fc810a8e248.opus",
+					"duration": 98.61,
+					"starts": [
+						0.0,
+						2.69,
+						10.63,
+						21.0,
+						29.94,
+						40.97,
+						43.7,
+						50.06,
+						58.19,
+						64.74,
+						73.7,
+						85.57
+					]
+				},
+				{
+					"key": "7",
+					"hash": "5213d9b6ba0faa88",
+					"file": "ru/00-start/05-local-first/7-5213d9b6ba0faa88.opus",
+					"duration": 21.31,
+					"starts": [
+						0.0,
+						1.92,
+						7.4,
+						13.95
+					]
+				}
+			]
+		},
+		"01-internet/01-history": {
+			"sections": [
+				{
+					"key": "intro",
+					"hash": "a27b9a91231b1f20",
+					"file": "ru/01-internet/01-history/intro-a27b9a91231b1f20.opus",
+					"duration": 34.11,
+					"starts": [
+						0.0,
+						2.75,
+						7.25,
+						16.35,
+						21.7
+					]
+				},
+				{
+					"key": "1",
+					"hash": "3a01935c622b73d8",
+					"file": "ru/01-internet/01-history/1-3a01935c622b73d8.opus",
+					"duration": 74.61,
+					"starts": [
+						0.0,
+						2.3,
+						7.23,
+						21.66,
+						31.01,
+						38.9,
+						46.88,
+						55.65,
+						60.35,
+						64.5,
+						69.52
+					]
+				}
+			]
+		}
+	}
+}
