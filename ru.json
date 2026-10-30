@@ -23,21 +23,21 @@
 				},
 				{
 					"key": "1",
-					"hash": "f93c75897c4e295f",
-					"file": "ru/00-start/01-how-to-learn/1-f93c75897c4e295f.opus",
-					"duration": 62.21,
+					"hash": "b68ae14c104a8a8f",
+					"file": "ru/00-start/01-how-to-learn/1-b68ae14c104a8a8f.opus",
+					"duration": 59.51,
 					"starts": [
 						0.0,
-						2.85,
-						8.65,
-						16.31,
-						22.94,
-						27.32,
-						32.96,
-						38.06,
-						44.49,
-						50.85,
-						55.12
+						2.39,
+						8.02,
+						14.81,
+						21.51,
+						25.61,
+						30.17,
+						35.61,
+						42.19,
+						48.61,
+						52.1
 					]
 				},
 				{
@@ -217,26 +217,26 @@
 				},
 				{
 					"key": "3",
-					"hash": "767c2078304c5fdd",
-					"file": "ru/00-start/02-time-machine/3-767c2078304c5fdd.opus",
-					"duration": 119.61,
+					"hash": "2fdf874a17462b10",
+					"file": "ru/00-start/02-time-machine/3-2fdf874a17462b10.opus",
+					"duration": 115.81,
 					"starts": [
 						0.0,
-						1.86,
-						6.51,
-						16.49,
-						26.89,
-						34.99,
-						42.98,
-						50.73,
-						60.76,
-						69.46,
-						76.63,
-						84.94,
-						88.6,
-						95.33,
-						107.24,
-						111.83
+						3.05,
+						7.49,
+						17.56,
+						28.27,
+						36.92,
+						44.97,
+						53.52,
+						61.71,
+						67.82,
+						74.79,
+						84.32,
+						87.89,
+						95.03,
+						103.66,
+						108.26
 					]
 				},
 				{
@@ -370,45 +370,45 @@
 				},
 				{
 					"key": "5",
-					"hash": "ecea18e33cbdd41c",
-					"file": "ru/00-start/03-workbench/5-ecea18e33cbdd41c.opus",
-					"duration": 109.91,
+					"hash": "6a0f54a8e059b770",
+					"file": "ru/00-start/03-workbench/5-6a0f54a8e059b770.opus",
+					"duration": 117.31,
 					"starts": [
 						0.0,
-						2.5,
-						10.89,
-						25.62,
-						28.31,
-						36.05,
-						40.35,
-						45.62,
-						50.31,
-						52.92,
-						59.78,
-						65.76,
-						71.22,
-						76.52,
-						83.58,
-						86.84,
-						96.24,
-						101.5
+						2.72,
+						12.89,
+						26.56,
+						29.48,
+						43.11,
+						47.86,
+						53.56,
+						58.04,
+						60.95,
+						66.9,
+						71.88,
+						77.04,
+						81.93,
+						89.28,
+						93.12,
+						102.72,
+						107.76
 					]
 				},
 				{
 					"key": "6",
-					"hash": "08119e52cdc68083",
-					"file": "ru/00-start/03-workbench/6-08119e52cdc68083.opus",
-					"duration": 42.51,
+					"hash": "2fdffe73c3050026",
+					"file": "ru/00-start/03-workbench/6-2fdffe73c3050026.opus",
+					"duration": 38.61,
 					"starts": [
 						0.0,
-						3.4,
-						6.88,
-						11.57,
-						15.17,
-						22.62,
-						28.19,
-						29.51,
-						35.49
+						2.43,
+						5.75,
+						10.4,
+						13.77,
+						21.81,
+						26.38,
+						27.81,
+						33.01
 					]
 				}
 			]
@@ -504,14 +504,14 @@
 			"sections": [
 				{
 					"key": "intro",
-					"hash": "21767e5e434d8955",
-					"file": "ru/00-start/05-local-first/intro-21767e5e434d8955.opus",
-					"duration": 33.41,
+					"hash": "d0057e391b8a3e87",
+					"file": "ru/00-start/05-local-first/intro-d0057e391b8a3e87.opus",
+					"duration": 34.61,
 					"starts": [
 						0.0,
-						6.05,
-						14.75,
-						21.47
+						7.51,
+						14.87,
+						21.18
 					]
 				},
 				{
@@ -529,21 +529,6 @@
 						42.34,
 						50.36,
 						54.23
-					]
-				},
-				{
-					"key": "2",
-					"hash": "93c252446b93d6c2",
-					"file": "ru/00-start/05-local-first/2-93c252446b93d6c2.opus",
-					"duration": 48.91,
-					"starts": [
-						0.0,
-						4.09,
-						11.63,
-						15.29,
-						23.83,
-						35.99,
-						43.23
 					]
 				},
 				{
@@ -589,34 +574,34 @@
 				},
 				{
 					"key": "5",
-					"hash": "c6858fc810a8e248",
-					"file": "ru/00-start/05-local-first/5-c6858fc810a8e248.opus",
-					"duration": 98.61,
+					"hash": "555604d354af3bc3",
+					"file": "ru/00-start/05-local-first/5-555604d354af3bc3.opus",
+					"duration": 97.81,
 					"starts": [
 						0.0,
-						2.69,
-						10.63,
-						21.0,
-						29.94,
-						40.97,
-						43.7,
-						50.06,
-						58.19,
-						64.74,
-						73.7,
-						85.57
+						2.53,
+						12.73,
+						21.6,
+						30.13,
+						41.35,
+						44.62,
+						52.95,
+						61.84,
+						67.22,
+						75.89,
+						83.61
 					]
 				},
 				{
 					"key": "7",
-					"hash": "5213d9b6ba0faa88",
-					"file": "ru/00-start/05-local-first/7-5213d9b6ba0faa88.opus",
-					"duration": 21.31,
+					"hash": "e475fd22a97cf144",
+					"file": "ru/00-start/05-local-first/7-e475fd22a97cf144.opus",
+					"duration": 22.11,
 					"starts": [
 						0.0,
-						1.92,
-						7.4,
-						13.95
+						1.84,
+						6.88,
+						14.52
 					]
 				}
 			]
@@ -653,6 +638,466 @@
 						60.35,
 						64.5,
 						69.52
+					]
+				},
+				{
+					"key": "6",
+					"hash": "3aaf96e98fd93dd4",
+					"file": "ru/01-internet/01-history/6-3aaf96e98fd93dd4.opus",
+					"duration": 30.31,
+					"starts": [
+						0.0,
+						4.59,
+						12.47,
+						24.92
+					]
+				}
+			]
+		},
+		"01-internet/02-browsers-platforms-runet": {
+			"sections": [
+				{
+					"key": "intro",
+					"hash": "21a7066135600c99",
+					"file": "ru/01-internet/02-browsers-platforms-runet/intro-21a7066135600c99.opus",
+					"duration": 38.61,
+					"starts": [
+						0.0,
+						5.84,
+						14.73,
+						24.42,
+						34.13
+					]
+				},
+				{
+					"key": "1",
+					"hash": "eca68c052964a878",
+					"file": "ru/01-internet/02-browsers-platforms-runet/1-eca68c052964a878.opus",
+					"duration": 39.51,
+					"starts": [
+						0.0,
+						1.96,
+						9.27,
+						14.13,
+						17.13,
+						24.78,
+						32.95
+					]
+				},
+				{
+					"key": "2",
+					"hash": "53c0ae1ac1259fb1",
+					"file": "ru/01-internet/02-browsers-platforms-runet/2-53c0ae1ac1259fb1.opus",
+					"duration": 139.01,
+					"starts": [
+						0.0,
+						6.2,
+						10.05,
+						18.46,
+						28.58,
+						36.13,
+						44.43,
+						50.44,
+						56.5,
+						61.11,
+						69.71,
+						78.12,
+						84.32,
+						91.28,
+						106.96,
+						121.37,
+						125.68
+					]
+				},
+				{
+					"key": "3",
+					"hash": "f8afff07950f7d8d",
+					"file": "ru/01-internet/02-browsers-platforms-runet/3-f8afff07950f7d8d.opus",
+					"duration": 57.31,
+					"starts": [
+						0.0,
+						5.99,
+						12.72,
+						21.2,
+						31.72,
+						37.85,
+						44.04,
+						51.2
+					]
+				},
+				{
+					"key": "4",
+					"hash": "a1993cb6959f55d8",
+					"file": "ru/01-internet/02-browsers-platforms-runet/4-a1993cb6959f55d8.opus",
+					"duration": 76.01,
+					"starts": [
+						0.0,
+						4.24,
+						11.54,
+						18.12,
+						30.58,
+						40.05,
+						51.01,
+						61.97,
+						65.78
+					]
+				},
+				{
+					"key": "5",
+					"hash": "8a924ac529c6d0c5",
+					"file": "ru/01-internet/02-browsers-platforms-runet/5-8a924ac529c6d0c5.opus",
+					"duration": 81.71,
+					"starts": [
+						0.0,
+						3.68,
+						9.83,
+						14.27,
+						28.96,
+						32.6,
+						39.06,
+						47.04,
+						58.78,
+						66.49,
+						71.07,
+						75.18
+					]
+				},
+				{
+					"key": "6",
+					"hash": "d1f4c657b2c270c7",
+					"file": "ru/01-internet/02-browsers-platforms-runet/6-d1f4c657b2c270c7.opus",
+					"duration": 85.61,
+					"starts": [
+						0.0,
+						1.22,
+						6.06,
+						17.41,
+						27.62,
+						33.43,
+						46.4,
+						55.73,
+						66.46,
+						73.15
+					]
+				},
+				{
+					"key": "8",
+					"hash": "0c6d8ae909cd33ee",
+					"file": "ru/01-internet/02-browsers-platforms-runet/8-0c6d8ae909cd33ee.opus",
+					"duration": 25.21,
+					"starts": [
+						0.0,
+						5.41,
+						14.85,
+						19.45
+					]
+				}
+			]
+		},
+		"01-internet/03-packets-ip-tcp": {
+			"sections": [
+				{
+					"key": "1",
+					"hash": "2931d0dcc6e53e3d",
+					"file": "ru/01-internet/03-packets-ip-tcp/1-2931d0dcc6e53e3d.opus",
+					"duration": 67.91,
+					"starts": [
+						0.0,
+						2.72,
+						6.79,
+						11.68,
+						24.25,
+						32.02,
+						38.16,
+						45.78,
+						57.51,
+						61.26
+					]
+				},
+				{
+					"key": "2",
+					"hash": "3d05a2ea9c54fba0",
+					"file": "ru/01-internet/03-packets-ip-tcp/2-3d05a2ea9c54fba0.opus",
+					"duration": 57.61,
+					"starts": [
+						0.0,
+						3.35,
+						11.73,
+						17.69,
+						24.1,
+						28.24,
+						36.2,
+						46.19,
+						52.1
+					]
+				},
+				{
+					"key": "7",
+					"hash": "4d62f26c66e522fc",
+					"file": "ru/01-internet/03-packets-ip-tcp/7-4d62f26c66e522fc.opus",
+					"duration": 33.21,
+					"starts": [
+						0.0,
+						4.59,
+						10.88,
+						21.41
+					]
+				}
+			]
+		},
+		"01-internet/04-urls-domains": {
+			"sections": [
+				{
+					"key": "3",
+					"hash": "12daa6a3f7730e31",
+					"file": "ru/01-internet/04-urls-domains/3-12daa6a3f7730e31.opus",
+					"duration": 84.81,
+					"starts": [
+						0.0,
+						2.41,
+						5.73,
+						11.71,
+						17.31,
+						24.17,
+						29.08,
+						32.07,
+						37.34,
+						40.49,
+						48.37,
+						57.96,
+						61.94,
+						65.26,
+						69.07,
+						72.8,
+						76.41
+					]
+				}
+			]
+		},
+		"01-internet/05-dns": {
+			"sections": [
+				{
+					"key": "1",
+					"hash": "611d15589512c7ef",
+					"file": "ru/01-internet/05-dns/1-611d15589512c7ef.opus",
+					"duration": 48.61,
+					"starts": [
+						0.0,
+						2.2,
+						6.76,
+						15.6,
+						22.56,
+						28.08,
+						37.84
+					]
+				},
+				{
+					"key": "2",
+					"hash": "81a64497faca62ef",
+					"file": "ru/01-internet/05-dns/2-81a64497faca62ef.opus",
+					"duration": 137.11,
+					"starts": [
+						0.0,
+						2.41,
+						9.22,
+						15.48,
+						17.94,
+						26.93,
+						32.72,
+						59.75,
+						63.64,
+						71.28,
+						80.83,
+						89.04,
+						98.2,
+						102.74,
+						111.46,
+						116.6,
+						122.55,
+						127.05
+					]
+				},
+				{
+					"key": "5",
+					"hash": "8099352e0855becc",
+					"file": "ru/01-internet/05-dns/5-8099352e0855becc.opus",
+					"duration": 50.51,
+					"starts": [
+						0.0,
+						2.03,
+						9.68,
+						11.01,
+						14.1,
+						27.36,
+						32.4,
+						40.1
+					]
+				},
+				{
+					"key": "7",
+					"hash": "583b6df32c42ce25",
+					"file": "ru/01-internet/05-dns/7-583b6df32c42ce25.opus",
+					"duration": 29.51,
+					"starts": [
+						0.0,
+						3.57,
+						15.6,
+						22.75
+					]
+				}
+			]
+		},
+		"01-internet/06-http": {
+			"sections": [
+				{
+					"key": "1",
+					"hash": "a14919ddd0a446dc",
+					"file": "ru/01-internet/06-http/1-a14919ddd0a446dc.opus",
+					"duration": 46.21,
+					"starts": [
+						0.0,
+						2.16,
+						11.52,
+						18.87,
+						23.28,
+						28.81,
+						38.56
+					]
+				},
+				{
+					"key": "3",
+					"hash": "631ae6eb397ef6e8",
+					"file": "ru/01-internet/06-http/3-631ae6eb397ef6e8.opus",
+					"duration": 38.31,
+					"starts": [
+						0.0,
+						1.46,
+						4.57,
+						6.26,
+						12.62,
+						20.36,
+						26.11,
+						30.32
+					]
+				},
+				{
+					"key": "8",
+					"hash": "8735a92f99fbc88a",
+					"file": "ru/01-internet/06-http/8-8735a92f99fbc88a.opus",
+					"duration": 29.71,
+					"starts": [
+						0.0,
+						3.21,
+						14.41,
+						18.18
+					]
+				}
+			]
+		},
+		"01-internet/07-https-tls": {
+			"sections": [
+				{
+					"key": "2",
+					"hash": "316e690438a572e0",
+					"file": "ru/01-internet/07-https-tls/2-316e690438a572e0.opus",
+					"duration": 59.71,
+					"starts": [
+						0.0,
+						3.39,
+						9.62,
+						13.71,
+						19.64,
+						23.91,
+						30.06,
+						33.65,
+						40.82,
+						47.14,
+						53.24
+					]
+				},
+				{
+					"key": "3",
+					"hash": "51564d622775f38a",
+					"file": "ru/01-internet/07-https-tls/3-51564d622775f38a.opus",
+					"duration": 50.81,
+					"starts": [
+						0.0,
+						2.24,
+						6.26,
+						10.15,
+						15.35,
+						25.22,
+						35.19,
+						42.59,
+						46.91
+					]
+				},
+				{
+					"key": "5",
+					"hash": "d6ae59236c3e65ed",
+					"file": "ru/01-internet/07-https-tls/5-d6ae59236c3e65ed.opus",
+					"duration": 106.91,
+					"starts": [
+						0.0,
+						2.1,
+						8.48,
+						27.06,
+						29.03,
+						39.42,
+						43.59,
+						49.86,
+						61.31,
+						74.73,
+						82.75,
+						98.85
+					]
+				}
+			]
+		},
+		"01-internet/08-rendering": {
+			"sections": [
+				{
+					"key": "intro",
+					"hash": "2500d3e112121291",
+					"file": "ru/01-internet/08-rendering/intro-2500d3e112121291.opus",
+					"duration": 31.91,
+					"starts": [
+						0.0,
+						3.33,
+						10.65,
+						20.13
+					]
+				},
+				{
+					"key": "3",
+					"hash": "1d3bbdddf405a5f1",
+					"file": "ru/01-internet/08-rendering/3-1d3bbdddf405a5f1.opus",
+					"duration": 59.91,
+					"starts": [
+						0.0,
+						2.17,
+						5.04,
+						9.36,
+						13.37,
+						20.59,
+						24.3,
+						28.09,
+						33.32,
+						42.42,
+						48.23,
+						55.03
+					]
+				},
+				{
+					"key": "7",
+					"hash": "8f5caacf11d39243",
+					"file": "ru/01-internet/08-rendering/7-8f5caacf11d39243.opus",
+					"duration": 29.31,
+					"starts": [
+						0.0,
+						4.48,
+						14.48,
+						20.11
 					]
 				}
 			]
