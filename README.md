@@ -13,6 +13,8 @@ The spoken lessons of [«Сквозь время»](https://open.noeticecho.spac
   32 kbps, loudness-normalised to −16 LUFS. `<section>` is `intro` (the title, the «Зачем» and the
   definition) or the section's number among the lesson's `##` headings; `<hash>` is the hash of
   the words spoken in it, so a file never changes: a new text is a new file.
+- `en/<part>/<lesson>/<section>-<hash>.opus` and `en.json`: the same for the English edition («Through Time»), read by
+  the same preset speaker, `serena`, in English. Each language has its own tree and manifest.
 - `ru.json`: the manifest, lesson id → sections → file, duration in seconds, the hash, and the
   start of each sentence. The textbook's build reads its own copy (`content/narration/ru.json`
   in NoeticEcho/learn) and offers «Слушать» only on a lesson whose every section matches its
